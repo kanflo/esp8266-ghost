@@ -1,0 +1,22 @@
+PODS:
+  - MQTTKit (0.1.0-next)
+  - NKOColorPickerView (0.2)
+
+DEPENDENCIES:
+  - MQTTKit (from `https://github.com/mobile-web-messaging/MQTTKit.git`)
+  - NKOColorPickerView
+
+EXTERNAL SOURCES:
+  MQTTKit:
+    :git: https://github.com/mobile-web-messaging/MQTTKit.git
+
+CHECKOUT OPTIONS:
+  MQTTKit:
+    :commit: 94926fb58df6b43d53040d656da441bb2de402e9
+    :git: https://github.com/mobile-web-messaging/MQTTKit.git
+
+SPEC CHECKSUMS:
+  MQTTKit: eca7270c24d16fe7865143d3e86f393f3275c544
+  NKOColorPickerView: b4d32e1eedfcaeaec890f8301081ee030d49cffd
+
+COCOAPODS: 0.35.0
